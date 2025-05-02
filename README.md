@@ -1,4 +1,10 @@
-# 2137
-
-
-scrips
+38.154.227.167:5868:vxzllxct:00ga7ovvrlx3
+45.127.248.127:5128:vxzllxct:00ga7ovvrlx3
+198.23.239.134:6540:vxzllxct:00ga7ovvrlx3
+38.153.152.244:9594:vxzllxct:00ga7ovvrlx3
+86.38.234.176:6630:vxzllxct:00ga7ovvrlx3
+173.211.0.148:6641:vxzllxct:00ga7ovvrlx3
+216.10.27.159:6837:vxzllxct:00ga7ovvrlx3
+154.36.110.199:6853:vxzllxct:00ga7ovvrlx3
+45.151.162.198:6600:vxzllxct:00ga7ovvrlx3
+188.74.210.21:6100:vxzllxct:00ga7ovvrlx3
