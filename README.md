@@ -1,10 +1,10 @@
-38.154.227.167:5868:vxzllxct:00ga7ovvrlx3
-45.127.248.127:5128:vxzllxct:00ga7ovvrlx3
 198.23.239.134:6540:vxzllxct:00ga7ovvrlx3
-38.153.152.244:9594:vxzllxct:00ga7ovvrlx3
-86.38.234.176:6630:vxzllxct:00ga7ovvrlx3
-173.211.0.148:6641:vxzllxct:00ga7ovvrlx3
+207.244.217.165:6712:vxzllxct:00ga7ovvrlx3
+107.172.163.27:6543:vxzllxct:00ga7ovvrlx3
+161.123.152.115:6360:vxzllxct:00ga7ovvrlx3
+23.94.138.75:6349:vxzllxct:00ga7ovvrlx3
 216.10.27.159:6837:vxzllxct:00ga7ovvrlx3
+136.0.207.84:6661:vxzllxct:00ga7ovvrlx3
+64.64.118.149:6732:vxzllxct:00ga7ovvrlx3
+142.147.128.93:6593:vxzllxct:00ga7ovvrlx3
 154.36.110.199:6853:vxzllxct:00ga7ovvrlx3
-45.151.162.198:6600:vxzllxct:00ga7ovvrlx3
-188.74.210.21:6100:vxzllxct:00ga7ovvrlx3
